@@ -1,6 +1,6 @@
 ###  :man_technologist:  [EddStg](https://github.com/EddStg)
 
-👋 Hi, I'm Edd,a passionate self-taught backend developer from Mexico 🚀. 
+👋 Hi, I'm Edd, a self-taught frontend developer from Mexico focused on building efficient and scalable web solutions. 🚀. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
