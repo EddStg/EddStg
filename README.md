@@ -7,7 +7,7 @@
 ### About
 
 -  **Learning :** MEVN Stack Development :zap:  
--  **I use daily:  `JavaScript`, `PHP`, `VUE`, `HTML`,`CSS`, `SASS`,`tailwind`,`SQL`, `GIT & GITHUB`
+-  **I Use Daily:**  `JavaScript`, `PHP`, `VUE`, `HTML`,`CSS`, `SASS`,`tailwind`,`SQL`, `GIT & GITHUB`
 -  **Hobbies :** Brasilian JiuJitsu :martial_arts_uniform:, Music :headphones:, Coffe :coffee: & Cyber Security :computer:
 -  **Fact :** First solve the problem, then write the code :heart:
 
