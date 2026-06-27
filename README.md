@@ -1,31 +1,31 @@
 <div align="center">
 
-# Hola, soy Edd
+# Hi, I'm Edd
 
-### Ingeniero en Sistemas Computacionales | Desarrollo web y diseño de interfaces
+### Computer Systems Engineer | Web development and interface design
 
-Construyo sitios y sistemas web funcionales, con interfaces claras y una base técnica sólida. Combino programación, diseño y experiencia en soporte a usuarios para crear soluciones digitales útiles para personas y empresas.
+I build functional websites and web systems with clear interfaces and a solid technical foundation. I combine programming, design, and user support experience to create useful digital solutions for people and businesses.
 
 [![GitHub](https://img.shields.io/badge/GitHub-EddStg-181717?style=for-the-badge&logo=github)](https://github.com/EddStg)
-[![Email](https://img.shields.io/badge/Contacto-kraken.dev2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kraken.dev2@gmail.com)
+[![Email](https://img.shields.io/badge/Contact-kraken.dev2%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kraken.dev2@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mi
+## About Me
 
-Soy Ingeniero en Sistemas Computacionales, egresado de la Universidad Virtual del Estado de Guanajuato. Me enfoco en desarrollo web, diseño responsive, prototipado de interfaces, soporte técnico y fundamentos de ciberseguridad.
+I am a Computer Systems Engineer, graduated from Universidad Virtual del Estado de Guanajuato. I focus on web development, responsive design, interface prototyping, technical support, and cybersecurity fundamentals.
 
-Mi experiencia profesional también incluye atención a clientes, operación de sistemas, gestión de tickets, coordinación de equipos, inventarios y mejora de procesos internos.
+My professional experience also includes customer service, systems operation, ticket management, team coordination, inventory control, and internal process improvement.
 
 ```txt
-Perfil        Desarrollo web + UI + soporte técnico
-Ubicación     Lázaro Cárdenas, Michoacán, México
-Disponibilidad Disponible para nuevos proyectos
+Profile       Web development + UI + technical support
+Location      Lazaro Cardenas, Michoacan, Mexico
+Availability  Available for new projects
 ```
 
-## Stack y herramientas
+## Stack And Tools
 
 <div align="center">
 
@@ -33,10 +33,7 @@ Disponibilidad Disponible para nuevos proyectos
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -49,24 +46,24 @@ Disponibilidad Disponible para nuevos proyectos
 
 </div>
 
-## En que trabajo
+## What I Work On
 
-| Área | Lo que desarrollo |
+| Area | What I Build |
 | --- | --- |
-| Landing pages | Sitios responsivos con estructura clara y enfoque en conversión |
-| Sistemas web CRUD | Aplicaciones para registrar, consultar, actualizar y eliminar información |
-| Interfaces | Prototipos y pantallas cuidando navegación, jerarquía visual y experiencia de usuario |
-| Soporte técnico | Diagnóstico de incidencias, gestión de tickets y acompañamiento a usuarios |
-| Seguridad | Fundamentos de ciberseguridad y buenas prácticas iniciales |
+| Landing pages | Responsive websites with clear structure and a conversion-focused approach |
+| CRUD web systems | Applications to create, read, update, and delete information |
+| Interfaces | Prototypes and screens focused on navigation, visual hierarchy, and user experience |
+| Technical support | Issue diagnosis, ticket management, and user support |
+| Security | Cybersecurity fundamentals and initial best practices |
 
-## Formación reciente
+## Recent Training
 
-- Ingeniería en Sistemas Computacionales, Universidad Virtual del Estado de Guanajuato
-- Desarrollo Web Completo: HTML5, CSS3, JavaScript, PHP y MySQL
-- CSS Grid, Flexbox y SASS
+- Computer Systems Engineering, Universidad Virtual del Estado de Guanajuato
+- Complete Web Development: HTML5, CSS3, JavaScript, PHP, and MySQL
+- CSS Grid, Flexbox, and SASS
 - Vue.js 3
 - Cyber Security 101
-- Hacking Ético y Ciberseguridad
+- Ethical Hacking and Cybersecurity
 
 ## GitHub
 
@@ -81,6 +78,6 @@ Disponibilidad Disponible para nuevos proyectos
 
 <div align="center">
 
-**Primero resolver el problema, después escribir el código.**
+**Solve the problem first, then write the code.**
 
 </div>
